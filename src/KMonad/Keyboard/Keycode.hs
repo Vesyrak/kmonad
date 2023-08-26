@@ -119,6 +119,7 @@ data Keycode
   | KeyKp7
   | KeyKp8
   | KeyKp9
+  | KeySectionSign
   | KeyKpMinus
   | KeyKp4
   | KeyKp5
